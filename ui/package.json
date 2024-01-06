@@ -12,7 +12,7 @@
     "pre-commit": "lint-staged"
   },
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.6.4",
     "bootstrap": "^5.3.0",
     "bootstrap-icons": "^1.10.5",
     "classnames": "^2.3.1",
